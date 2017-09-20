@@ -13,4 +13,4 @@ Super simple plugin to add custom product template feature to WooCommece. If you
 ### Template Selection Metabox
 ![Product Template Selection Box](https://i.imgur.com/jLmfksV.png)
 
-That's it! Enjoy and please don't forget to inspire me :D
+That's it! Enjoy and :raised_hands: please don't forget to inspire me :smiley:
